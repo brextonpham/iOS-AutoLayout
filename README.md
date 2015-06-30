@@ -1,4 +1,4 @@
 AutoLayout
 ==========
 
-An example of how to use the Visual Format Language in Auto Layout. Watch the Treehouse workshop for an in-depth explanation.
+Using the Visual Format Language with AutoLayout instead of Interface Builder.
